@@ -1,0 +1,4 @@
+Version 1.0.0
+Initial release – Computer Vision examples with OpenCV
+Includes PDF overview and sample ZIP demo
+Date: November 2025
